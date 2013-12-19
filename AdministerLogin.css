@@ -1,0 +1,49 @@
+﻿
+body
+{
+    /*background: #59DBF5;*/
+}
+#container
+{
+    background: url(../../Content/Images/ZA-wp5.jpg);
+    background-position: 0 bottom;
+    
+    background-repeat: no-repeat;
+    height: 1200px;
+}
+#head
+{
+    background: #E2EDF6;
+    font-size: 40px;
+    line-height: 40px;
+    height: 104px;
+    width: 600px;
+    text-align: center;
+    padding-top: 40px;
+    margin: 0 auto;
+}
+#main
+{
+    background: #FFF;
+    width: 600px;
+    height: 300px;
+    text-align: center;
+    margin: 0 auto;
+}
+input
+{
+    width: 200px;
+    border: 1px solid #CCC;
+}
+#SubmitAndReset
+{
+    float:right;
+    height:20px;
+    width: 60px;
+    /*padding-right:10px;*/
+}
+#SubmitAndReset td
+{
+    width: 60px;
+    padding-left: 65px;
+}

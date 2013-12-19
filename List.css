@@ -1,0 +1,91 @@
+﻿body
+{
+    font: 10.5pt/1.5 "华文宋体";
+}
+#nav
+{
+    line-height: 30px;
+    background-color: #E2F1FA;
+    padding: 0 10px;
+}
+
+a
+{
+    color: #444;
+}
+#data-list
+{
+    width: 97%;
+    margin: 10px auto;
+}
+#data-list th, #data-list td
+{
+    border: 1px solid #ddd;
+    line-height: 25px;
+    padding: 0 3px;
+}
+
+#data-list th
+{
+    background: #D6E7FC;
+}
+.id
+{
+    width: 40px;
+}
+.time
+{
+    width: 150px;
+}
+.oper
+{
+    width: 50px;
+}
+
+/*--分页条--*/
+.pager
+{
+    text-align: right;
+    height: 30px;
+    padding: 0 10px;
+    float: right;
+}
+
+.pager a, .pager-info
+{
+    border: 1px solid #EEE;
+    padding: 2px 8px;
+}
+.pager a:hover, .current-page
+{
+    color: #FFF;
+    background-color: #FF0000;
+}
+.to-page
+{
+    border: 1px solid #EEE;
+    width: 20px;
+    height: 18px;
+    color: #DD8844;
+}
+
+#search
+{
+    margin: 10px auto;
+    width: 97%;
+    display: none;
+}
+
+#tbKey
+{
+    width: 300px;
+    margin-right: 10px;
+}
+#ddlInfoType
+{
+    margin-right: 10px;
+}
+.tr
+{
+    background: #D6E7FC;
+}

@@ -1,0 +1,49 @@
+﻿body 
+{
+    font:10.5pt/1.5 微软雅黑;
+    margin:8px;
+}
+#edit table
+{
+    width:100%;
+}
+#edit table th,
+#edit table td
+{
+    border:1px solid #DDD;
+    height:30px;
+    padding:0 10px;
+    vertical-align:middle;
+}
+
+#edit table th
+{
+    width:100px;
+    background-color:#E2F1FA;
+    text-align:right;
+}
+
+#edit input,
+#edit select,
+#edit textarea
+{
+    border:1px solid #ddd;
+    vertical-align:middle;
+}
+
+#btn button
+{
+    display:inline;
+    margin-right:30px;
+}
+
+#btn input
+{
+    display:inline;
+    margin-right:30px;
+}
+
+#tbTitle,#fuImage
+{
+    width:40%;
+    }

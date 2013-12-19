@@ -1,0 +1,42 @@
+﻿body
+{
+    font: 10.5pt/1.5 "微软雅黑";
+}
+
+#container
+{
+    width: 99%;
+    margin: 0 auto;
+}
+/*#top
+{
+    height: 50px;
+    line-height: 20px;
+    padding: 10px;
+    color: White;
+    background: #102A49;
+}*/
+#top
+{
+    background: #E5EDEF;
+}
+#bottom
+{
+    line-height: 30px;
+    text-align: center;
+    background-color: #E5EDEF;
+}
+
+#firstPage:hover
+{
+    color: Red;
+    text-decoration: underline;
+}
+#firstPage
+{
+    text-decoration: none;
+}
+#center
+{
+    background: url(../Content/Images/ZA-wp5.jpg)0 -300px no-repeat;
+}
